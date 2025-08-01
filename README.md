@@ -26,10 +26,8 @@
     </tr>
     <tr>
         <td>SRAM</td>
-        <td>Up to 128KB TCM</td>
-        <td></td>
-        <td>Up to 256KB TCM</td>
-        <td></td>
+        <td colspan="2">Up to 128KB TCM</td>
+        <td colspan="2">Up to 256KB TCM</td>
         <td>Up to 512KB TCM</td>
         <td>4.5MB</td>
     </tr>

@@ -42,7 +42,10 @@
     </tr>
     <tr>
         <td >FlexSPI</td>
-        <td colspan="36">1 x Dual-channel/8-bit</td>
+        <td colspan="5">1 x Dual-channel/8-bit<br>
+            PortA-4bit + PortB-4bit</td>
+        <td>1 x Dual-channel/8-bit<br>
+            PortA-8bit, PortB-8bit</td>
     </tr>
 </table>
 
